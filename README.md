@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsayed007&layout=compact&theme=cobalt)](https://github.com/rsayed007/github-readme-stats)
 
 ![Roman's github stats](https://github-readme-stats.vercel.app/api?username=rsayed007&count_private=true&show_icons=true&theme=cobalt) 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rsayed007)](https://github.com/rsayed007/github-profile-trophy)
