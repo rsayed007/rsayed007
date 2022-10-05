@@ -18,11 +18,3 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=rsayed007&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=rsayed007&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="Roman Syed's GitHub Stats" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsayed007&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270" alt="Roman Syed's Most Used GitHub Languages" />
-</a>
