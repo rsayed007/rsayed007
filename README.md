@@ -9,6 +9,8 @@ Here are some ideas to knowing me:
 - ⚡  Fun fact: I love traveling 
 - 🧰 Everyday Tools: Clipy, iTerm, ZSH, PHPStorm, Sublime Text, Bash Script
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rsayed007&show_icons=true&theme=vision-friendly-dark)
+
 
 ![](https://komarev.com/ghpvc/?username=rsayed007&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
 
