@@ -31,26 +31,26 @@ Here are some ideas to knowing me:
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rsayed007&show_icons=true&theme=vision-friendly-dark) -->
 
 <!-- Github Activities -->
-## 📈 Github Stats
+## Github Stats
  <h3> Streak Stats</h3>
  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <p><img src="https://streak-stats.demolab.com?user=rsayed007&theme=monokai-metallian&hide_border=true&mode=weekly&fire=DD2727"></p>
+  <p><img src="https://streak-stats.demolab.com?user=rsayed007&theme=monokai-metallian&hide_border=true&mode=weekly&fire=DD2727&sideLabels=F8D866"></p>
 </a>
 
  <h3>GitHub Profile Stats</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Syed Nayeem Roman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rsayed007&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
+  <img alt="Syed Nayeem Roman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rsayed007&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&hide_border=true&bg_color=1F222E&title_color=F8D866&icon_color=F8D866" height="192px">
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img alt="Syed Nayeem Roman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsayed007&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px">
+ <img alt="Syed Nayeem Roman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsayed007&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px">
 
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
- <img alt="Syed Nayeem Roman's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=rsayed007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+ <img alt="Syed Nayeem Roman's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=rsayed007&bg_color=1F222E&color=F8D866&line=009933&point=FFFFFF&hide_border=true">
 </a>
 
   
-![](https://komarev.com/ghpvc/?username=rsayed007&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
+<!-- ![](https://komarev.com/ghpvc/?username=rsayed007&color=blueviolet&style=plastic&label=PROFILE+VIEWS) -->
  <a href="#"><img src="https://komarev.com/ghpvc/?username=rsayed007&style=for-the-badge&color=red" alt="Profile Views"></a>
 
 
